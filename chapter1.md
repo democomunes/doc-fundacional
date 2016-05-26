@@ -14,7 +14,7 @@ Queremos una sociedad plenamente democrática en todos sus ámbitos, impulsada p
 Crear, liberar y compartir modelos organizativos, tecnologías, metodologías, prácticas, materiales legales, narrativas y, en general, recursos comunes y abiertos que nos lleven hacia formas democráticas basadas en la participación colaborativa conectada.
 
 ### Identidad
-Somos una red de personas que, desde dentro y fuera de  las instituciones, individual o colectivamente, nos organizamos de manera abierta, horizontal, transparente, evolutiva y con autonomía operativa.
+Somos una red de personas que, desde dentro y fuera de  las instituciones, individual o colectivamente, nos organizamos de manera abierta, horizontal, transparente, reconfigurable y con autonomía operativa.
 
 
 ## Modelo organizativo
@@ -47,12 +47,12 @@ De modo general, establecemos 3 tipos de roles en los nodos: cuidadoras, contrib
 
 Cada nodo puede decidir incorporar más roles para cubrir las necesidades del mismo con independencia del resto de la red.
 
-Un nodo requiere la participación de al menos 2 personas. Se pueden generar nuevos nodos si existen al menos una cuidadora y una contribuidora para dinamizarlos.
+Se pueden generar nuevos nodos si existen al menos una cuidadora y una contribuidora para dinamizarlos.
 
 
 ##### Descripción de Nodos
 
-- \[motor\] **Nodo Vital / Motor / Dinamizador / Impulsor / Coordinador**: Es el espacio de trabajo donde consensuar las decisiones que afectan a toda la red, así como en el que velar por el cumplimiento de la misión, integrando el trabajo de la red y manteniendo la interacción entre los nodos viva y ágil. Particularmente, en los primeros momentos de la red, tendrá una función de impulsarla y consolidarla (dinamizar, alimentar, repartir juego, liderar el diseño estratégico...)
+- \[motor\] **Nodo Vital / Motor / Dinamizador / Impulsor / Coordinador / Madre**: Es el espacio de trabajo donde consensuar las decisiones que afectan a toda la red, así como en el que velar por el cumplimiento de la misión, integrando el trabajo de la red y manteniendo la interacción entre los nodos viva y ágil. Particularmente, en los primeros momentos de la red, desempeñará la función de impulsarla y consolidarla (dinamizar, alimentar, repartir juego, liderar el diseño estratégico...)
 Todos los nodos mantendrán al menos un representante activo en este grupo.
 
 - \[legal\] **Nodo Legal**: Es el espacio de trabajo de asesoría jurídica relacionada con procesos democráticos. Tiene funciones de ayuda en el desarrollo de formas de resolver conflictos legales sobre procesos de participación (referendums vinculantes, modelos de estatutos democráticos y de asociaciones...) y en cualquier otra interacción de la red con el marco jurídico existente, asesorando en estos asuntos al resto de nodos.
@@ -63,13 +63,13 @@ Todos los nodos mantendrán al menos un representante activo en este grupo.
 
 - \[exp\] **Nodo Experimental**: Es el espacio de trabajo dedicado a la experimentación con plataformas emergentes y nuevas metodologías que permitan mejorar el funcionamiento de la red. Este sera el espacio de testeo de diferentes opciones antes de extenderlas a la propia red.
 
-- \[urban\] **Nodo de Urbanismo**: Es el espacio de trabajo encargado de producir, facilitar, gestionar y proveer estructuras y recursos para la participación, gobernanza o co/auto-gestión de los comunes urbanos orientados a facilitar el desarrollo interconectado de iniciativas ciudadanas auto-organizadas tanto en espacio urbanos como en espacios rurales.
+- \[urban\] **Nodo de Urbanismo**: Es el espacio de trabajo encargado de producir, facilitar, gestionar y proveer estructuras y recursos para la participación, gobernanza o co/auto-gestión de los comunes urbanos y rurales.
 
-- \[com\] **Nodo de Comunicación**: Dedicado a  desarrollar campañas, visibilizar iniciativas, realizar difusión de las  actividades de la red y sus proyectos, gestionar la página web y el  diseño gráficos, generar material audiovisual...
+- \[com\] **Nodo de Comunicación**: Es el espacio de trabajo dedicado a fomentar la cultura participativa: desarrollar campañas, visibilizar iniciativas, realizar difusión de las  actividades de la red y sus proyectos, gestionar la página web y el diseño gráfico, generar material audiovisual...
 
-- \[inv\] **Nodo de Investigación**: Desde una perspectiva más científico-teórica se trata de investigar procesos de participación en marcha, desarrollar indicadores, proponer marcos teóricos de comprensión, modelos computacionales, etc.
+- \[inv\] **Nodo de Investigación**:  Es el espacio de trabajo que desde una perspectiva científico-teórica y de análisis crítico, investiga procesos de participación en marcha, desarrolla indicadores para la evaluación, propone marcos teóricos de comprensión, modelos computacionales, optimización de los procesos de participación, etc.
 
-- \[demoteca\] **Nodo-Proyecto Demoteca**: Biblioteca general de la red y gestión y difusión de experiencias practicas y proyectos/personas clave. Poner en contacto a las personas. 
+- \[demoteca\] **Nodo-Proyecto Demoteca**: Es la biblioteca general de la red. Su objetivo, en primer lugar, es ser un espacio de contenidos y herramientas al servicio de la democracia participativa y la innovación social, que ofrezca materiales de referencia, creados de forma colaborativa, que ayuden a generar iniciativas y socializar experiencias de democracia participativa. En segundo lugar, conectar proyectos, instituciones, agentes, experiencias clave para la democracia deliberativa. 
 
 
 #### Roles
@@ -102,9 +102,33 @@ La forma jurídica más viable que hemos encontrado para constituirnos es en for
 
 Democomunes se constituye en forma de Asociación con personalidad jurídica y plena capacidad de obrar, careciendo de ánimo de lucro. Se regulará en base a sus estatutos y reglamentos internos, en su caso.
 
-## Comunicación interna
+## Foro
 
-Cualquiera que sea el sistema de comunicación interna de la red (foros, listas de correo, reuniones presenciales, etc.) cada nodo tendrá un espacio propio de comunicación y trabajo, que será abierto y transparente. Se fomentará y faciltitará la multipertenencia a varios grupos de trabajo. Quienquiera que participe en el nodo de coordinación deberá participar y contribuir en al menos otro nodo.[repetido]
+Es el espacio virtual de comunicación en abierto y creación colaborativa de la red, que se fundamentará en la construcción de inteligencias colectivas aprovechando sus estructuras.
+Cada nodo tendrá un espacio propio de comunicación y trabajo colaborativo, que será abierto y transparente. Se fomentará y faciltitará la pertenencia a varios nodos y la comunicación entre ellos.
+
+La comunicación en este foro se atendrá a la netiqueta: 
+http://wiki.hacktivistas.net/index.php?title=Organizaci%C3%B3n/Netiqueta
+
+Cada nodo tendrá asignada una categoria en el foro, además de una general. Esto permite una comunicación temática al modo de las listas de correo. Para distribuir los mensajes se usarán las etiquetas con las que se han denominado los nodos actuales.
+
+La herramienta de comunicación interna permitirá la interacción de los diferentes nodos. Se abrirán hilos o se compartirán espacios de trabajo que involucren a los nodos implicados, a través de la funcionalidad de *mención* (añadir captura de pantalla - link al tutoral).
 
 
+## Resolución de conflictos. 
+Las cuidadoras de cada nodo asumirán las funciones de moderación y mediación en la resolución de posibles conflictos dentro de su nodo. En caso de no lograrse  acuerdo por esta via, se podrá instar a mediación por parte del nodo de coordinación.
+
+## Texto de adhesión
+
+Mediante el formulario que encontrarás a continuación, puedes manifestar públicamente tu compromiso con lo expuesto en el manifiesto adjunto marcando la casilla correspondiente y haciendo constar tu nombre y correo electrónico.
+
+No es necesario que compartas nuestro trabajo ni que tengas una relación profesional con nosotras. Si te interesa este proyecto de Red de Comunes Democráticos (DemoComunes), puedes participar en la red con toda libertad.
+
+Mediante el formulario que encontrarás a continuación, puedes manifestar públicamente tu acuerdo con la misión, visión y principios organizativos de la red. No es necesario que compartas nuestro trabajo ni que tengas una relación profesional con nosotras. Si te interesa este proyecto de Red de Comunes Democráticos (DemoComunes), puedes participar en la red con toda libertad.
+
+En el formulario sólo es necesario que hagas constar tu nombre y correo electrónico.
+(en los términos de uso se especificaran esta regla de adhesion a la misión, visión y principios organizativos)
+
+
+> **Autoría e historia del documento:** Este documento fue construído de manera colaborativa durante el taller fundacional de la red de comunes democráticos que tuvo lugar durante los días 23, 24, 25 y 26 de Mayo de 2016, en el marco del DemocracyLab, en Medialab Prado, Madrid. En esta sección contribuyeron del día 23 al 25: ale, angela, lola, oihane, candela, carol, gigiana, luis, sara, roxu, alberto y xabier, y el día 26 se unieron: txema, david, emanuele, oscar, alberto y alt. El documento original con el historial de contribuciones puede encontrarse en https://recodex.titanpad.com/20 y textos y materiales previos fueron producidos en los pads 21, 22 y 26.
 

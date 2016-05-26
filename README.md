@@ -1,3 +1,3 @@
-# My Awesome Book
+# foo
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+estas son las primeras líneas del Documento Fundacional de a Red De Comunes Democráticos.

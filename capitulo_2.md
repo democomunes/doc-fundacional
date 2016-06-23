@@ -27,10 +27,11 @@ La elaboración del presente documento fundacional tiene como objetivo registrar
 A partir de una trabajo presencial, en MediaLab Prado en el marco de las Jornadas de Ciudades Democráticas y la creación de la RED Democomunes, el nodo Comunicación se propuso lanzar y crear la imagen de la RED.  
 
 4 días de trabajo.
-Día 1: División de grupos. Conocimiento del equipo comunicación. Identidad.  Objetivos de la comunicación.
-Día 2: Definición de las herramientas de comunicación. Nombre, logo.  
-Día 3: Apertura de redes, web, mail. Trabajo e intercambio con los otros grupos de trabajo.  
-Día 4: Contenidos de la web. Video. Manual de Estilo. Grupo de twitter.  
+
+* **Día 1**: División de grupos. Conocimiento del equipo comunicación. Identidad.  Objetivos de la comunicación.
+* **Día 2**: Definición de las herramientas de comunicación. Nombre, logo.  
+* **Día 3**: Apertura de redes, web, mail. Trabajo e intercambio con los otros grupos de trabajo.  
+* **Día 4**: Contenidos de la web. Video. Manual de Estilo. Grupo de twitter.  
 
 Los Grupos de Trabajo finalizaron como tales al acabar la sesión de talleres presenciales, fue en ese momento, cuando daba comienzo el trabajo en red distribuido y decidimos utilizar las siguientes herramientas para poder desarrollarlo (aquí las nombramos, un poco más abajo indicamos los enlaces a cada herramienta).
 
@@ -57,12 +58,12 @@ Luego del trabajo intenso y la coordinación del trabajo en el equipo. Creamos y
 
 La líneas de trabajo que extrajo el Nodo Comunicación se dividen en: 
 
-1-WEB
-2-Diseño / Identidad
-3-Redes Sociales
-4-Público/Comunidades
-5-Prensa
-6- Lanzamiento de la Red
+1.-WEB
+2.-Diseño / Identidad
+3.-Redes Sociales
+4.-Público/Comunidades
+5.-Prensa
+6.-Lanzamiento de la Red
 
 ### Nuestras herramientas.  
 

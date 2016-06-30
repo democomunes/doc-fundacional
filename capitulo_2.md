@@ -41,7 +41,7 @@ Los Grupos de Trabajo finalizaron como tales al acabar la sesión de talleres pr
    * Telegram
 
 
-### Desarrollo
+### Desarrollo.
 
 En el nodo de Comunicación el objetivo principal, en los inicios de estas sesiones, fue pensar en una **estrategia comunicativa** para el lanzamiento de la red e **imagen corporativa**.
 

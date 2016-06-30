@@ -1,4 +1,4 @@
-# Capítulo 2: Comunicación 
+# Capítulo 2: Comunicación para el lanzamiento de la Red.
 
 
 Somos el espacio de trabajo dedicado a fomentar la cultura participativa desde la comunicación de la RED de democomunes.  

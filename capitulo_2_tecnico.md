@@ -12,11 +12,11 @@ Se  han discutido una serie de herramientas para facilitar el trabajo  interno: 
 Luego de discutirlo nos hemos decidido por las siguientes aplicaciones web: 
 
 * Github  y Gitbook para trabajar el documento fundacional y subir el código o  forks que realicemos, ya que son herramientas ampliamente utilizadas,  con documentación extensa y que permiten integrarse con distintos  servicios externos. 
-** https://www.gitbook.com/book/democomunes/democomunes-documento-fundacional/details 
-** https://github.com/democomunes 
+  *https://www.gitbook.com/book/democomunes/democomunes-documento-fundacional/details 
+  *https://github.com/democomunes 
 * MediaWiki:  para la Demoteca, el repositorio de conocimiento, nos hemos decantado  por MediaWiki, el software creado para la Wikipedia, principalmente por  su gran documentación y comunidad de desarrollo (plugins, temas, etc).  La hemos montado en http://wiki.democomunes.net/
 * Discourse:  para las discusiones y debates entre todos los nodos y facilitar el  trabajo en distintos tiempos al real hemos querido utilizar Discourse,  una aplicación relativamente nueva pero que aparte de servir como foro  moderno tiene una amplia posibilidad de extensión a través de plugins.  La hemos montado en http://foro.democomunes.net/
-* Wordpress:  para la página principal que sirva de portada para las herramientas de  trabajo colaborativo hemos pensado en Wordpress, ya que cuenta con  amplia comunidad de desarrollo (plugins y temas). Hemos buscado un tema  que sea libre y limpio como punto de partida y hemos encontrado el Flat  Bootstrap (https://es.wordpress.org/themes/flat-bootstrap/, repositorio en github https://github.com/xtremelysocial/flat-bootstrap ). Lo hemos montado en http://democomunes.net/ y hemos ayudado a Comunicación a configurarlo. 
+* Wordpress:  para la página principal que sirva de portada para las herramientas de  trabajo colaborativo hemos pensado en Wordpress, ya que cuenta con  amplia comunidad de desarrollo (plugins y temas). Hemos buscado un tema  que sea libre y limpio como punto de partida y hemos encontrado el Flat  Bootstrap (https://es.wordpress.org/themes/flat-bootstrap/, repositorio en [github](https://github.com/xtremelysocial/flat-bootstrap ). Lo hemos montado en http://democomunes.net/ y hemos ayudado a Comunicación a configurarlo. 
 
 # Servidor 
 

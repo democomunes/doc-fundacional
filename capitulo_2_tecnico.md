@@ -1,4 +1,4 @@
-# Capítulo 2. Infraestructura técnica de la red.
+# Capítulo 2. Infraestructura técnica de la Red.
 
 
 El objetivo de  nuestro grupo es montar las infraestructuras digitales para la  coordinación, producción, comunicación y la toma de decisiones de una  Red de Comunes de Democráticos. 

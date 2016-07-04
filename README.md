@@ -18,7 +18,7 @@ Este documento describe la organización y funcionamiento de la Red de Comunes p
 
 ### Palabras clave
 
-Democracia participativa, ciudad democrática, conocimiento abierto, democracia deliberativa, democracia directa.
+Democracia participativa, ciudad democrática, comunes, commons, conocimiento abierto, democracia deliberativa, democracia directa.
 
 ### Estructura
 

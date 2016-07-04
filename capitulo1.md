@@ -1,9 +1,4 @@
 # Capitulo 1: Organización de la red
-<!-- http://markdown.es/sintaxis-markdown/
-< https://github.com/xabier/escritura-colaborativa-github/blob/master/lenguajes-de-marca.md
-< http://dillinger.io/
-< http://daringfireball.net/projects/markdown/dingus
---> 
 
 ## Visión, Misión, Identidad
 

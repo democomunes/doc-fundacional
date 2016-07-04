@@ -23,9 +23,11 @@ Democracia participativa, ciudad democrática, comunes, commons, conocimiento ab
 ### Estructura
 
 * [Introducción](README.md)
-* [Capitulo 1: Organización de la red](chapter1.md)
-* [Capítulo 2: Infraestructura técnica de la Red.](capitulo_2_tecnico.md)
-* [Capítulo 3: Comunicación para el lanzamiento de la Red.](capitulo_2.md)
+* [Capitulo 1: Organización de la red](capitulo1.md)
+* [Capítulo 2: Comunicación para el lanzamiento de la Red.](capitulo2.md)
+* [Capítulo 3: Infraestructura técnica de la Red.](capitulo3.md)
+* [Capítulo 4: Coordenadas teóricas](capitulo4.md)
+* [Capitulo 5: Demoteca](capitulo5.md)
 * [Anexo 1: ¿Cómo se fundó la red de comunes democráticos?](anexo_1.md)
 
 ### Fuentes 

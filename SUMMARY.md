@@ -6,5 +6,5 @@
 * [Capítulo 3: Infraestructura técnica de la Red.](capitulo3.md)
 * [Capítulo 4: Coordenadas teóricas](capitulo4.md)
 * [Capitulo 5: Demoteca](capitulo5.md)
-* [anexo1.md](anexo1.md)
+* [Anexo 1: ¿Cómo se fundó la red de comunes democráticos?](anexo1.md)
 

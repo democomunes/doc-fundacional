@@ -48,22 +48,41 @@ En conexión directa con la cuestión del conocimiento surge la cuestión de la 
 6. Conforme a lo que acabamos de apuntar, la mayoría de ellos pueden situarse en un continuo en el que el "medio" y la "meta" (o el "fin") son polos, en ocasiones, difíciles de distinguir, una distinción que depende de numerosos factores, entre los que se encuentra la disposición de los agentes implicados.
 
 ## Bibliografía
-Barber, B. R. (1984). Strong democracy: Participatory politics for a new age. Univ of California Press.
-Beck, U., Giddens, A., & Lash, S. (1994). Reflexive modernization: Politics, tradition and aesthetics in the modern social order. Stanford University Press.
-Castells, M. (1996). The information age: economy, society and culture. Vol. 1, The rise of the network society (Vol. 1). Oxford: Blackwell.
-Dewey, J. (1939). “Creative democracy: the task before us”, en John dewey: the political writings, editado por Debra Morris e Ian Shapiro (1993). Indianapolis: Hackett.
-Dewey, J., y Rogers, M. L. (editor) (1927/2012). The public and its problems: An essay in political inquiry. Penn State Press.
-Flacks, R., & Lichtenstein, N. (Eds.). (2015). The Port Huron Statement: Sources and Legacies of the New Left's Founding Manifesto. University of Pennsylvania Press.
-Fraser, N. (1990). Rethinking the public sphere: A contribution to the critique of actually existing democracy. Social text, (25/26), 56-80.
-Fraser, N. (2001, May). Social justice in the knowledge society: redistribution, recognition, and participation. In Gut zu Wissen conference paper, Heinrich Böll Stiftung (Vol. 5, pp. 1-13).
-Fuchs, C. (2007). Internet and society: Social theory in the information age. Routledge.
-Habermas, J. (1980/1989). Teoría de la acción comunicativa (2 Vols.). Buenos Aires: Taurus.
-Habermas, J. (1994). Three normative models of democracy. Constellations, 1(1), 1-10.
-Hacker, K. L., & van Dijk, J. (Eds.). (2000). Digital democracy: Issues of theory and practice. Sage.
+
+Barber, B. R. (1984). *Strong democracy: Participatory politics for a new age.* Univ of California Press.
+
+Beck, U., Giddens, A., & Lash, S. (1994). *Reflexive modernization: Politics, tradition and aesthetics in the modern social order.* Stanford University Press.
+
+Castells, M. (1996). *The information age: economy, society and culture. Vol. 1, The rise of the network society (Vol. 1).* Oxford: Blackwell.
+
+Dewey, J. (1939). “Creative democracy: the task before us”, en *John dewey: the political writings*, editado por Debra Morris e Ian Shapiro (1993). Indianapolis: Hackett.
+
+Dewey, J., y Rogers, M. L. (editor) (1927/2012). *The public and its problems: An essay in political inquiry.* Penn State Press.
+
+Flacks, R., & Lichtenstein, N. (Eds.). (2015). *The Port Huron Statement: Sources and Legacies of the New Left's Founding Manifesto.* University of Pennsylvania Press.
+
+Fraser, N. (1990). Rethinking the public sphere: A contribution to the critique of actually existing democracy. *Social text*, (25/26), 56-80.
+
+Fraser, N. (2001, May). Social justice in the knowledge society: redistribution, recognition, and participation. In *Gut zu Wissen conference paper, Heinrich Böll Stiftung* (Vol. 5, pp. 1-13).
+
+Fuchs, C. (2007). *Internet and society: Social theory in the information age.* Routledge.
+
+Habermas, J. (1980/1989). *Teoría de la acción comunicativa (2 Vols.)*. Buenos Aires: Taurus.
+
+Habermas, J. (1994). Three normative models of democracy. *Constellations*, 1(1), 1-10.
+
+Hacker, K. L., & van Dijk, J. (Eds.). (2000). *Digital democracy: Issues of theory and practice.* Sage.
+
 Intermon Oxfam (2016). Una economía al servicio del 1%: acabar con los privilegios y la concentración de poder para frenar la desigualdad extrema (la situación en España).  Accesible en en https://oxfamintermon.s3.amazonaws.com/sites/default/files/documentos/files/economia-para-minoria-anexo-espana.pdf    
-Latour, B., & Venn, C. (2002). Morality and technology the end of the means. Theory, culture & society, 19(5-6), 247-260.
-Laval, C., & Dardot, P. (2015). Común: ensayo sobre la revolución en el siglo XXI. Editorial GEDISA.
-Mouffe, C. (2005). On the political. Psychology Press.
-Pateman, C. (1970). Participation and democratic theory. Cambridge University Press.
+
+Latour, B., & Venn, C. (2002). Morality and technology the end of the means. *Theory, culture & society*, 19(5-6), 247-260.
+
+Laval, C., & Dardot, P. (2015). *Común: ensayo sobre la revolución en el siglo XXI*. Editorial GEDISA.
+
+Mouffe, C. (2005). *On the political*. Psychology Press.
+
+Pateman, C. (1970). *Participation and democratic theory*. Cambridge University Press.
+
 Toret, J., Calleja-López, A., Marín, O., Aragón, P., Aguilera, M., Barandiaran, X., Lumbreras, A., & Monterde, A. (2015). Tecnopolítica y 15M: la potencia de las multitudes conectadas: un estudio sobre la gestación y explosión del 15M.    Editorial UOC.
-Winner, L. (1992). Citizen virtues in a technological order. Inquiry, 35(3-4), 341-361.
+
+Winner, L. (1992). Citizen virtues in a technological order. *Inquiry*, 35(3-4), 341-361.

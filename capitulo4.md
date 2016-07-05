@@ -2,9 +2,11 @@
 # Capítulo 4: Coordenadas teóricas
 
 > El gobierno de todos y de cualquier 
+
 J. Ranciere
 
 > We reject kings, presidents and voting. We believe in rough consensus and running code 
+
 Internet, Engineering Task Force
 
 ## Metas
